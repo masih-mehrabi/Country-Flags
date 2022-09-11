@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "country-flags-d8250": {
+      "hosting": {
+        "country-flags": [
+          "country-flags-d8250"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "country-flags-d8250"
+  }
+}
